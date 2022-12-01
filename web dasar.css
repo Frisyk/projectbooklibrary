@@ -106,6 +106,7 @@ nav ul li a:hover::after {
 }
 #home .item img {
     width: 100%;
+    z-index: -10;
 }
 .box, .boxq{
     width: 400px;
